@@ -307,7 +307,6 @@
             'deps/libgit2/src/win32/error.h',
             'deps/libgit2/src/win32/findfile.c',
             'deps/libgit2/src/win32/findfile.h',
-            'deps/libgit2/src/win32/git2.rc',
             'deps/libgit2/src/win32/map.c',
             'deps/libgit2/src/win32/mingw-compat.h',
             'deps/libgit2/src/win32/msvc-compat.h',
